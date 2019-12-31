@@ -1028,6 +1028,7 @@ gadsbee.com
 7bpeople.com
 7car.com.cn
 7dah8.com
+7ef4d.cn
 7ez4.cn
 7gbca.cn
 7gg.cc
@@ -1180,7 +1181,6 @@ a.52zxw.com
 a.53yao.com
 a5.yeshj.com
 a.75111.com
-a8a9455e53fbc75bc995.com
 a907907.com
 a9377j.com
 a9.com
@@ -1302,7 +1302,6 @@ ad.about.com
 ad.aboutit.de
 ad.aboutwebservices.com
 ad.abum.com
-ad.accessmediaproductions.com
 adacgov.cn
 adaction.de
 adadmin.house365.com
@@ -1431,8 +1430,6 @@ ad.httpool.com
 adhunter.media
 ad.hyena.cz
 a.diaoyu.cn
-ad.icasthq.com
-ad.idgtn.net
 ad.iinfo.cz
 ad.ilove.ch
 ad.iloveinterracial.com
@@ -1516,7 +1513,6 @@ adm-cnzz.net
 admddc.com
 admd.housefun.com.tw
 admd.yam.com
-ad.mediabong.net
 admedia.com
 admedia.ro
 ad.media-servers.net
@@ -1527,7 +1523,6 @@ admeridianads.com
 admerize.be
 ad.mesomorphosis.com
 admeta.com
-admeta.vo.llnwd.net
 admex.com
 adm.fwmrm.net
 ad.mgd.de
@@ -1592,7 +1587,6 @@ ad.pickple.net
 ad.playground.ru
 adplexo.com
 adplus.co.id
-adplus.goo.mx
 adplxmd.com
 ad.preferances.com
 adprimemedia.com
@@ -1622,7 +1616,6 @@ adrotator.se
 adrotic.girlonthenet.com
 adrs.sdo.com
 adrta.com
-ad.r.worldssl.net
 ads03.redtube.com
 ads10.speedbit.com
 ads180.com
@@ -2081,7 +2074,6 @@ ads.penny-arcade.com
 ads.pheedo.com
 ads.phpclasses.org
 ads.pickmeup-ltd.com
-ad.spielothek.so
 adspirit.de
 ads.pkr.com
 ads.planet.nl
@@ -2220,7 +2212,6 @@ ads.xhamster.com
 ads.xtra.co.nz
 ads.xtribeapp.com
 ads.xxxad.net
-ads.xxxbunker.com
 adsxyz.com
 ads.y-0.net
 ads.yahoo.com
@@ -2299,7 +2290,6 @@ adverty.com
 adv.freeonline.it
 adv.hwupgrade.it
 advice-ads-cdn.vice.com
-ad.vidaroo.com
 advideo.uimserv.net
 adview.com
 adview.ppro.de
@@ -2397,7 +2387,6 @@ affiliate.viator.com
 affiliatewindow.com
 affiliation.fotovista.com
 affiliationjs.s3.amazonaws.com
-affil.mupromo.com
 aff.marathonbet.com
 affrh2014.com
 affrh2022.com
@@ -2411,7 +2400,6 @@ afp.wasu.cn
 afterview.ru
 a.fwsir.com
 aganj.com
-agenda.complex.com
 aggnr.groovesharks.org
 a.glcdn.co
 agreeablestew.com
@@ -2467,7 +2455,6 @@ ak0gsh40.com
 akailoparzapi.com
 akamai.smartadserver.com
 a.kejixun.com
-a.killergram-girls.com
 akrazappi.com
 akrwi.cn
 aktrack.pubmatic.com
@@ -2712,7 +2699,6 @@ avsmt.cn
 a.w3techs.com
 a.wanzhuang.com
 award.sitekeuring.net
-a.watershed-publishing.com
 a.wifi33.com
 awkjs.com
 awqsaged.cn
