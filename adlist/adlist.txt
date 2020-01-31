@@ -22,6 +22,7 @@ adskeeper.co.uk
 gumtree.com
 adexchangegate.com
 statcounter.com
+onesignal.com
 revcontent.com
 here.com
 cj.com
@@ -409,6 +410,7 @@ brightmountainmedia.com
 prooffactor.com
 clcassd.com
 juiceadv.com
+ip-api.com
 triptease.io
 glispa.com
 tapinfluence.com
@@ -740,6 +742,7 @@ adforgames.com
 wordego.com
 test.com
 evyy.net
+freegeoip.net
 redirectingat.com
 cjlog.com
 comboapp.com
@@ -1421,6 +1424,8 @@ vcdn.biz
 30913.api.swrve.com
 30913.content.swrve.com
 30ads.com
+31026.api.swrve.com
+31026.content.swrve.com
 31365y.com
 3188.engine.mobileapptracking.com
 3193.api.swrve.com
@@ -3426,6 +3431,7 @@ ads.ign.com
 ad.simgames.net
 ads.img.co.za
 ads.imgur.com
+ads.immobilienscout24.de
 ads.independent.com.mt
 ads.indiatimes.com
 ads.infi.net
@@ -6364,6 +6370,7 @@ bosatria.cn
 bosiwangzi.cn
 boston-d.openx.net
 bottle-brush.tagboard.com.herokudns.com
+bot.whatismyipaddress.com
 boudja.com
 bounce.emxdgt.com
 bounce.exacttarget.com
@@ -6676,6 +6683,7 @@ cb-cdn.com
 cbcnewmedia.pushwoosh.com
 cbdm.weathercn.com
 cben1.net
+c.betrad.com
 c-betrad-com.cdn.ampproject.org
 c.bigmir.net
 cbjs.baidu.com
@@ -7015,6 +7023,7 @@ cdn-usent.kampyle.com
 cdn-v3.conductrics.com
 cdn.vdopia.com
 cdn.viglink.com
+cdn-webview-pge.unityads.unity3d.com
 cdnwidget.com
 cdn.wootric.com
 cdn.wpm.neustar.biz
@@ -7056,6 +7065,7 @@ ceskydomov.alias.ngs.modry.cz
 ceskydomovalias.ngs.modry.cz
 cetrk.com
 cetus.iad-03.braze.com
+c.evidon.com
 c-evt.moatads.com
 ceyiuy.com
 cezezo.top
@@ -7789,6 +7799,7 @@ converge-digital.com
 conversionbet.com
 conversionruler.com
 conversions.adaptv.advertising.com
+conversions.appsflyer.com
 convert.bounceexchange.com
 convhkmp.taboola.com
 convlatbmp.taboola.com
@@ -8497,6 +8508,7 @@ datax.baidu.com
 dating.mgid.com
 d-atl1.turn.com
 datplus.springserve.com
+dau.fyber.com
 daviik.iad-03.braze.com
 dawanjiahn.com
 dawwx.com
@@ -9587,6 +9599,7 @@ events.appsflyer.com
 events.attentivemobile.com
 events.avantisvideo.com
 events.branch.io
+events.browsiprod.com
 events.cid.samba.tv
 events-collector.spot.im
 events.engageya.com
@@ -10793,6 +10806,7 @@ hbnygj.com
 hbopenbid.pubmatic.com
 hbopenbid-sgc.pubmatic.com
 hbopenbid-sg.pubmatic.com
+hbsdk-config.log.smaato.net
 hbssjd.cn
 hbttcc.com
 hb.undertone.com
@@ -13341,6 +13355,7 @@ mediatext.com
 mediation1.apptornado.com
 mediation.adnxs.com
 mediation.adpushup.com
+mediation.fyber.com
 mediation-sdk.hyprmx.com
 media.trafficjunky.net
 mediavenus.com
@@ -13828,6 +13843,7 @@ mqgpo.com
 mqies.com
 mqs.ioam.de
 m.quantcount.com
+m.quantserve.com
 mr087.cn
 mraid.presage.io
 mraid.prod.cloud.ogury.io
@@ -15096,6 +15112,7 @@ pixel.moatads.com
 pixel.mtrcs.samba.tv
 pixel.onaudience.com
 pixel-origin.mathtag.com
+pixel.quantserve.com
 pixel-r53.netseer.com
 pixel.rubiconproject.com
 pixel-s2s.mathtag.com
@@ -15471,6 +15488,7 @@ ps.cname2.igexin.com
 psgch.xyz
 p.share.mob.com
 ps.innity.com
+p.skimresources.com
 ps.l.admedo.com
 psma02.com
 pso-imbot.inmobi.com
@@ -16217,6 +16235,7 @@ rs.adx.io
 r.scoota.co
 rscxwmj.cn
 r-sec.casalemedia.com
+r.skimresources.com
 rs-xpromotion.appspot.com
 rta.dailymail.co.uk
 rt.analytics.anvato.net
@@ -16323,6 +16342,7 @@ rules2.aatkit.com
 rules3.aatkit.com
 rules.aatkit.com
 rules.quantcount.com
+rumcdn.geoedge.be
 rum-collector-2.pingdom.net
 rum-collector.pingdom.net
 rum-collector.wpm.neustar.biz
@@ -16657,6 +16677,7 @@ sdk.g.uc.cn
 sdkgw.us1.twilio.com
 sdk-h5-cdn.rayjoy.com
 sdk.hansel.io
+sdk-hb-cfg.smaato.net
 sdk.hexia.io
 sdk.hockeyapp.net
 sdk.hostyour.video
@@ -17476,6 +17497,7 @@ spl1.ha1.yumenetworks.com
 spl1.yumenetworks.com
 spl2.yumenetworks.com
 splash.appsgeyser.com
+splash-screen.voodoo-ads.io
 splicky.com
 spolecznosci-d.openx.net
 sponsorads.de
@@ -18154,6 +18176,7 @@ sync.adkernel.com
 sync.adotmob.com
 sync.adspruce.com
 sync.ad-stir.com
+sync.adtelligent.com
 sync.alphonso.tv
 sync.apesvr.com
 sync.aralego.com
@@ -18177,6 +18200,8 @@ sync.ipredictive.com
 sync.logly.co.jp
 sync.mathtag.com
 sync.outbrain.com
+sync.republer.com
+sync.search.spotxchange.com
 sync.smartadserver.com
 sync.springserve.com
 sync.srv.stackadapt.com
@@ -18839,6 +18864,7 @@ tracker-pm2.spilleren.com
 tracker.rqmob.com
 tracker.samplicio.us
 trackersimulator.org
+trackers.voodoo-analytics.io
 tracker-us.adsmoloco.com
 tracker.vgame.us
 tracker.winudf.com
@@ -18886,6 +18912,7 @@ trackingfestival.com
 tracking.fyber.com
 tracking.gajmp.com
 tracking.ibxlink.com
+tracking.immobilienscout24.de
 tracking.inlocomedia.com
 tracking.internetstores.de
 tracking.intl.miui.com
@@ -19115,6 +19142,7 @@ tsdlp.com
 tsgyg.cn
 t.sharethis.com
 t.singular.net
+t.skimresources.com
 tsms-ad.tsms.com
 tsrc8.com
 tsrid.cxense.com
@@ -19133,6 +19161,7 @@ ttfgames.cn
 ttlowe.com
 tt.onthe.io
 t.tpctrust.com
+t.trafmag.com
 ttringwall.com
 ttt.onthe.io
 tuadong.com
